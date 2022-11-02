@@ -146,6 +146,17 @@ const Users = {
       portfolio: "",
     },
   },
+  "BhavyaMajani": {
+    name: "Bhavya Majani",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Bhavya-Majani",
+      instagram: "https://instagram.com/bhavyamajani",
+      linkedin: "https://www.linkedin.com/in/bhavya-majani-bb05b5236",
+      portfolio: "",
+    },
+  },
   "MadAra-UcHiHa89": {
     name: "Aadil Saudagar",
     branch: "IT",
